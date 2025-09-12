@@ -38,7 +38,7 @@ namespace DirectorioEmp.Clases
             get { return grados; }
             set { grados = value; }
         }
-        --------------------------------------------------------------
+
         public List<Cargo> Cargos
         {
             get { return cargos; }
